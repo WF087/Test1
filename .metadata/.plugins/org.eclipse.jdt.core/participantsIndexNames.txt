@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+E:\workspace_java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1134743754.index
+\dingcan\src
+E:\workspace_java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\935134726.index
+\dingcan\src
+E:\workspace_java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2402635071.index
+\dingcan\src
+E:\workspace_java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3116335857.index
+\dingcan\src
+E:\workspace_java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2169925636.index
+\dingcan\src
